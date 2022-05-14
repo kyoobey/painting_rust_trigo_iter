@@ -1,5 +1,6 @@
 # painting_rust_trigo_iter
 a mathematical painting
+related vod: https://www.youtube.com/watch?v=sow1KPIProE
 
 ![Screenshot](https://user-images.githubusercontent.com/61683653/168387046-12e3e1fd-20fa-488a-9323-896a37663bdc.PNG)
 
